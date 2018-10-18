@@ -1,4 +1,4 @@
-package test.exercise2;
+package solutions.exercise2;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

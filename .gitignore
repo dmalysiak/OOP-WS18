@@ -1,0 +1,8 @@
+*.class
+*.jar
+.project
+.classpath
+.idea/**
+exercise/.idea/**
+exercise/target/**
+*.iml
