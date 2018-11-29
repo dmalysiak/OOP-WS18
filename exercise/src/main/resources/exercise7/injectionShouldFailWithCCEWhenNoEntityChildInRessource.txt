@@ -1,0 +1,3 @@
+solutions.exercise7.Entity2;somename1
+solutions.exercise7.Entity1;anotherone2
+java.lang.Object;testing3

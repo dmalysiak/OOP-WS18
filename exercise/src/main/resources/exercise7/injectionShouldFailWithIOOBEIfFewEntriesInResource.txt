@@ -1,0 +1,2 @@
+solutions.exercise7.Entity1;anotherone2
+solutions.exercise7.Entity2;testing3
