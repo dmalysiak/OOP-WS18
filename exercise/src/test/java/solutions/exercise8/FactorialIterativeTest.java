@@ -11,7 +11,7 @@ public class FactorialIterativeTest {
     {
         final String value = "30";
         Factorial fa = new FactorialIterative();
-        assert(fa.calculateFaculty(new BigDecimal(value)).toString().compareTo("265252859812191058636308480000000")==0);
+        assert(fa.calculateFactorial(new BigDecimal(value)).toString().compareTo("265252859812191058636308480000000")==0);
     }
 
 }
