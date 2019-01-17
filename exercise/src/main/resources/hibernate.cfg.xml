@@ -14,6 +14,10 @@
         <property name="hbm2ddl.auto">create</property>
         <mapping class="solutions.exercise11.Pikachu"/>
         <mapping class="solutions.exercise11.Onix"/>
+        <mapping class="solutions.exercise12.refactored.model.Account"/>
+        <mapping class="solutions.exercise12.refactored.model.Bank"/>
+        <mapping class="solutions.exercise12.refactored.model.Person"/>
+        <mapping class="solutions.exercise12.refactored.model.PersonAttribute"/>
     </session-factory>
     <!-- a static mapping if one wants to avoid annotations -->
     <!-- <mapping resource="Things.hbm.xml"/> -->
